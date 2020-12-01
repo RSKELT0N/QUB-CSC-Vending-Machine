@@ -1,0 +1,18 @@
+owner,Jimmy
+maxItems,10
+totalMoney,12.7
+userMoney,0.0
+status,VENDING_MODE
+item,Coke,1.5,4
+item,Fanta,1.5,2
+item,Crisps,0.5,3
+item,Sweets,1.2,3
+item,Chicken,2.0,5
+item,Red Bull,1.5,2
+item,Hot Dog,1.5,2
+Coin,0.05,2
+Coin,0.1,2
+Coin,0.2,2
+Coin,0.5,2
+Coin,1.0,2
+Coin,2.0,5
